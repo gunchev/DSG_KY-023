@@ -1,6 +1,8 @@
-# Arduino KY-023 - Calibrated 2 axis and one button joystick.
+# Arduino KY-023 joystick library
 
 See https://tkkrlab.nl/wiki/Arduino_KY-023_XY-axis_joystick_module
+
+The class (DSG_Ky023) consists of two calibrated axis and one de-bounced button.
 
 The button returns true when pressed.
 
